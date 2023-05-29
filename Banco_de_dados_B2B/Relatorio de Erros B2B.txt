@@ -1,0 +1,18 @@
+[ERRO PASSO 3] no encontrou img navegador 24/05/2023 14:20
+[ERRO PASSO 4] Nao encontrou img SP-Capital 23/05/2023 12:10
+[ERRO PASSO 07] Nao encontrou img Exportar 19/04/2023 14:20
+[ERRO PASSO 12] Nao encontrou a tabela excel ReportB2B 14/04/2023 14:20
+[ERRO PASSO 08] Nao encontrou img arquivo excel 11/04/2023 14:20
+[ERRO PASSO 08] Nao encontrou img arquivo excel 06/04/2023 14:20
+[ERRO PASSO 08] Nao encontrou img arquivo excel 05/04/2023 14:20
+[ERRO PASSO 07] Nao encontrou img Exportar 10/03/2023 10:32
+[ERRO PASSO 08] Nao encontrou img arquivo excel 07/03/2023 16:50
+[ERRO PASSO 07] Nao encontrou img Exportar 06/03/2023 11:11
+
+
+
+
+
+
+
+######################### RELATÓRIO DE ERROS B2B ############################
